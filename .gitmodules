@@ -3,4 +3,4 @@
 	url = ../../caida/cc-common.git
 [submodule "lib/formats/libparsebgp"]
 	path = lib/formats/libparsebgp
-	url = ../../caida/libparsebgp.git
+	url = ../../alistairking/libparsebgp.git
